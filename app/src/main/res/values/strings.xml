@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Expense Manger</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">Version 1.1.0</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="types">
+        <item>Clothing</item>
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Fuel</item>
+        <item>Health</item>
+        <item>Fun</item>
+        <item>Transport</item>
+        <item>Restaurant</item>
+        <item>Give to Someone</item>
+        <item>Gift</item>
+        <item>Other1</item>
+        <item>Other2</item>
+        <item>Other3</item>
+        <item>Other4</item>
+
+    </string-array>
+
+    <string-array name="types2">
+        <item>Loan</item>
+        <item>Salary</item>
+        <item>Sales</item>
+        <item>Owe From Other</item>
+        <item>Winning Price</item>
+        <item>Gift</item>
+        <item>Other1</item>
+        <item>Other2</item>
+        <item>Other3</item>
+        <item>Other4</item>
+
+    </string-array>
+
+    <string-array name="m4_types">
+        <item>Clothing</item>
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Fuel</item>
+        <item>Health</item>
+        <item>Fun</item>
+        <item>Transport</item>
+        <item>Restaurant</item>
+        <item>Give to Someone</item>
+        <item>Gift</item>
+        <item>Other1</item>
+        <item>Other2</item>
+        <item>Other3</item>
+        <item>Other4</item>
+        <item>Total</item>
+
+    </string-array>
+
+    <string-array name="m4_types2">
+        <item>Loan</item>
+        <item>Salary</item>
+        <item>Sales</item>
+        <item>Owe From Other</item>
+        <item>Winning Price</item>
+        <item>Gift</item>
+        <item>Other1</item>
+        <item>Other2</item>
+        <item>Other3</item>
+        <item>Other4</item>
+        <item>Total</item>
+
+    </string-array>
+
+    <string-array name="types3">
+        <item>Cash</item>
+        <item>Digital Wallet</item>
+        <item>Bank Account</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="report">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Biweekly</item>
+        <item>Monthly</item>
+        <item>Annually</item>
+
+    </string-array>
+
+</resources>

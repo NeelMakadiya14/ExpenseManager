@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <!-- <item
+             android:id="@+id/m1"
+             android:icon="@drawable/ic_baseline_home_24px"
+             android:title="Home" />
+         <item
+             android:id="@+id/m2"
+             android:icon="@drawable/ic_balance_wallet_24px"
+             android:title="Budget" />-->
+        <item
+            android:id="@+id/m3"
+            android:icon="@drawable/ic_baseline_pie_chart_24px"
+            android:title="Chart" />
+        <item
+            android:id="@+id/m4"
+            android:icon="@drawable/ic_overview"
+            android:title="Analysis or Comparision By Date" />
+        <item
+            android:id="@+id/m5"
+            android:icon="@drawable/ic_compare"
+            android:title="Report or Comparision By Category" />
+
+        <item
+            android:id="@+id/m6"
+            android:icon="@drawable/ic_history"
+            android:title="View/Delete Record" />
+        <!--        <item
+                    android:id="@+id/m7"
+                    android:icon="@drawable/ic_pdf"
+                    android:title="Export PDF"/>-->
+        <item
+            android:id="@+id/m8"
+            android:icon="@drawable/ic_account_balance_24px"
+            android:title="Set Balance to Main Account" />
+
+        <item
+            android:id="@+id/m9"
+            android:icon="@drawable/ic_refresh"
+            android:title="Start New DataBase" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/m10"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/m11"
+                android:icon="@drawable/ic_baseline_info_24px"
+                android:title="About" />
+        </menu>
+    </item>
+
+    <item android:title="@string/version">
+        <menu>
+            <item
+                android:id="@+id/m12"
+                android:icon="@drawable/ic_signout"
+                android:title="SignOut" />
+        </menu>
+    </item>
+
+</menu>
+
+

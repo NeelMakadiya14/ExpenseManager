@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "138037404034",
+    "firebase_url": "https://nmakadiya.firebaseio.com",
+    "project_id": "nmakadiya",
+    "storage_bucket": "nmakadiya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138037404034:android:48f01da1fd8e23a8",
+        "android_client_info": {
+          "package_name": "com.nmakadiya.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138037404034-22480h8o7eeinejm68p81j4e651jabhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nmakadiya.expensemanager",
+            "certificate_hash": "faf9dff4c869ae8dbaf0582960758549a9db7d16"
+          }
+        },
+        {
+          "client_id": "138037404034-crcq5e9kcpo064vjgpd4ar1f53g4jr3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nmakadiya.expensemanager",
+            "certificate_hash": "0b9d374426702b487f85a35eab7b21b8c74d813d"
+          }
+        },
+        {
+          "client_id": "138037404034-q440q57ooj115j12ujjud723ultc4r60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nmakadiya.expensemanager",
+            "certificate_hash": "04206db0abee936c0bd6e577af50f94a26cb6c52"
+          }
+        },
+        {
+          "client_id": "138037404034-dk0i7dlr1p6hsc4gi496ogdsl425aths.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4Zvwe2bUPxWhV2KYkJNNcl1C4QJ66DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138037404034-dk0i7dlr1p6hsc4gi496ogdsl425aths.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2995472604015192~4868453885"
+    }
+  ],
+  "configuration_version": "1"
+}
